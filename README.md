@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+I'm Ashutosh
+
+I am a Data Science enthusiast and studying Post Bacculerate in Data Science. 
+
+If you’d like to get in touch, feel free to connect!
+
+[Linkedin](www.linkedin.com/in/ashutoshsharma25)
+
 <!--
 **theserenecoder/theserenecoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
