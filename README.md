@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ashutosh Sharma</h1>
-<h3 align="left">I’m a Data Analyst specialize in developing machine learning solutions, managing data migration, and  building ETL pipelines. I’m skilled in Python, SQL, SAP, MLOps, CI/CD pipelines, AWS Deployement and Docker, with experience deploying models on AWS.</h3>
+<h3 align="left">I’m a Data Analyst specialize in developing generative AI applications, machine learning solutions, managing data migration, and  building ETL pipelines. I’m skilled in Python, SQL, SAP, MLOps, CI/CD pipelines, AWS Deployement and Docker, with experience deploying models on AWS.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=theserenecoder&label=Profile%20views&color=0e75b6&style=flat" alt="theserenecoder" /> </p>
 
