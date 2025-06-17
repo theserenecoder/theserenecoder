@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=theserenecoder&label=Profile%20views&color=0e75b6&style=flat" alt="theserenecoder" /> </p>
 
-- 🔭 I’m currently working on [AI Projects]((https://github.com/theserenecoder/AI_Projects))
+- 🔭 I’m currently working on [AI Projects](https://github.com/theserenecoder/AI_Projects)
 
-- 🌱 I’m currently learning **Deep Learning and NLP**
+- 🌱 I’m currently learning **Deep Learning, NLP & Agentic AI**
 
 - 👨‍💻 All of my projects are available at [https://github.com/theserenecoder?tab=repositories](https://github.com/theserenecoder?tab=repositories)
 
